@@ -1,0 +1,121 @@
+body{
+  background-color: #ecfcff;
+  font-family: 'Belleza', sans-serif;
+  font-size: 1.25rem;
+}
+
+.top-container{
+position: relative;
+margin: 50px auto 50px auto;
+text-align: center;
+}
+
+.top-cloud{
+position: absolute;
+top: 150px;
+right: 25%;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 25%;
+  border-bottom: 300px;
+}
+
+.middle-container{
+  margin-top: 50px;
+
+}
+.profile{
+  text-align: center;
+}
+.profile-pix{
+  border-radius: 100px;
+  box-shadow: 0 0 .125rem .125rem #11999E;
+  margin-top: 25px;
+  }
+.hob{
+  text-align: center;
+}
+.hobbies{
+width: 70%;
+margin: auto;
+}
+.hobbies-row{
+text-align: left;
+line-height: 1.5;
+}
+
+.hobbies-img{
+width: 200px;
+  background-color: #ecfcff;
+  float: left;
+  }
+.sub{
+  text-align: center;
+  font-size: 1.25rem;
+  clear: left;
+  margin-bottom: 50px;
+}
+.anchor-tag{
+  text-decoration: none;
+  color: black;
+}
+.bloghead{
+  text-align: center;
+}
+.blog-img {
+width: 25%;
+float: right;
+
+  }
+
+h1{
+  font-family: 'Montez', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 70px;
+  color: #2f416d;
+}
+
+h2{
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 2rem;
+  color: #2f416d;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border-style: dotted none none none;
+  border-color: #11999E;
+  border-width: .35em;
+  width: 10%;
+}
+.btn{
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+.bottom-container{
+  text-align: center;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.contact-me{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+.inst-img {
+  width: 30px;
+}
+.reading-top{
+  width: 70%;
+  margin: auto;
+}
+.back{
+  text-align: center;
+  margin: auto;
+}
